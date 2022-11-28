@@ -1,0 +1,8 @@
+version = "0.1.0"
+name = "deplo-module-sample"
+author = { name = "Takehiro Iyatomi", email = "iyatomi@gmail.com" }
+entrypoints = {
+    step = {
+        linux = ["bash", "./entrypoint.sh"]
+    }
+}
