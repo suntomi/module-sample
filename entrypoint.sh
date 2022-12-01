@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "nop"
+echo "================"
+echo "this is sample!!"
+echo "================"

@@ -4,5 +4,6 @@ author = { name = "Takehiro Iyatomi", email = "iyatomi@gmail.com" }
 entrypoints = {
     step = {
         linux = ["bash", "./entrypoint.sh"]
+        macos = ["bash", "./entrypoint.sh"]
     }
 }
